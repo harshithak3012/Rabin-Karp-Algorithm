@@ -1,0 +1,9 @@
+This is a test text for testing the pattern search algorithm.
+test
+This is the second test text. We will test the pattern search algorithm again.
+hello
+This is the third test text. We'll see if the pattern search algorithm works for this one too.
+the
+ABABCABABABCABCABAB
+ABABCABAB
+
